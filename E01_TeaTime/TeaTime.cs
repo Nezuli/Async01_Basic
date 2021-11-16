@@ -24,9 +24,9 @@ namespace Async01_Basic.TeaTime
         private string BoilWater()
         {
             _outputProvider.WriteLine("Fill kettle with water");
-            _outputProvider.WriteLine("Wait for kettle to finish boilding");
+            _outputProvider.WriteLine("Wait for kettle to finish boiling");
             Task.Delay(4000).GetAwaiter().GetResult();
-            return "Boiling water";
+            return "Hot water";
         }
         
     }
