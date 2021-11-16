@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Async01_Basic.Util;
 
-namespace Async01_Basic.Cheatsheet
+namespace Async01_Basic.MorningRoutine.Cheatsheet
 {
     public class MorningRoutineOrg
     {
