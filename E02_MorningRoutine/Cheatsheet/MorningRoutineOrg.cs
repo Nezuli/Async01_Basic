@@ -27,7 +27,6 @@ namespace Async01_Basic.MorningRoutine.Cheatsheet
         {
             Do("Boot computer", 2000);
             Do("Make coffee", 2000);
-            Do("Take a sip of coffee", 1000);
             Do("Check email/calendar", 1000);
             Do("Boot IDE", 2000);
             Do("Take a sip of coffee", 1000);

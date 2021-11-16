@@ -12,7 +12,7 @@ namespace Async01_Basic.MorningRoutine
             _outputProvider = outputProvider;
         }
 
-        private void Do(string action, int actionTime = 1000)
+        private void Do(string action, int actionTime = 0)
         {
             _outputProvider.WriteLine(action);
             if(actionTime <= 0) 
@@ -27,7 +27,6 @@ namespace Async01_Basic.MorningRoutine
         {
             Do("Boot computer", 4000);
             Do("Make coffee", 2000);
-            Do("Take a sip of coffee", 1000);
             Do("Check email/calendar", 2000);
             Do("Boot IDE", 4000);
             Do("Take a sip of coffee", 1000);

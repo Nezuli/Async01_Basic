@@ -27,7 +27,6 @@ namespace Async01_Basic.MorningRoutine.Cheatsheet
         {
             var bootComputerTask = Do("Boot computer", 4000);
             await Do("Make coffee", 2000); // Need coffee to be done
-            await Do("Take a sip of coffee", 1000);
             await bootComputerTask; // Need computer to be booted
             var checkEmailTask = Do("Check email/calendar", 2000);
             var bootIdeTask = Do("Boot IDE", 4000);
