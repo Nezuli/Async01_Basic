@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorningRoutine", "MorningRoutine\MorningRoutine.csproj", "{A13280BE-09A6-4D40-93B6-44CABD8F4EAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E02_MorningRoutine", "E02_MorningRoutine\E02_MorningRoutine.csproj", "{A13280BE-09A6-4D40-93B6-44CABD8F4EAF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util", "Util\Util.csproj", "{FA0D64D0-8496-41F6-A189-05E3B509BC2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeaTime", "TeaTime\TeaTime.csproj", "{4CF7A418-4C49-4919-8C1A-A71792894FD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E01_TeaTime", "E01_TeaTime\E01_TeaTime.csproj", "{4CF7A418-4C49-4919-8C1A-A71792894FD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
