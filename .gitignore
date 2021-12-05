@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Async_Basic/v17/.suo
+/.vs/Async01_Basic/v17/.suo
+/.vs/Async01_Basic/v17/.futdcache.v1
+/.vs/Async01_Basic/DesignTimeBuild/.dtbcache.v2
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/E01_TeaTime/obj/Debug/net6.0
+/E02_MorningRoutine/obj
+/E01_TeaTime/obj
+/Util/obj
